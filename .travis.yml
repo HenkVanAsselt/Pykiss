@@ -1,0 +1,8 @@
+language: python
+
+python:
+  - "3.8"
+
+install: make develop install_requirements
+
+script: make nosetests

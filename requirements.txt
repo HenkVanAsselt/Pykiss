@@ -1,0 +1,10 @@
+# Requirements for pykiss
+psutil
+
+# For communication:
+pyserial
+
+# For testing:
+flake8
+pylint
+pytest
